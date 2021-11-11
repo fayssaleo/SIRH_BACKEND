@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	DemandeDocAdmin Helpers
+ */
